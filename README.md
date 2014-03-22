@@ -1,5 +1,6 @@
 ## Repositorios incluídos
 * [NSDate+HumanInterval](https://github.com/orlandoaleman/NSDate-HumanInterval)
+* [Macros](https://gist.github.com/orlandoaleman/5406358)
 
 ## Instrucciones
 Para añadir a la lista de repositorios de Cocoapods:
