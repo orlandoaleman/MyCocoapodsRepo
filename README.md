@@ -2,6 +2,7 @@
 * [CameraPicker](https://github.com/orlandoaleman/CameraPicker-for-iOS)
 * [NSDate+HumanInterval](https://github.com/orlandoaleman/NSDate-HumanInterval)
 * [Macros](https://gist.github.com/orlandoaleman/5406358)
+* [ORStorageService](https://github.com/orlandoaleman/ORStorageService)
 
 ## Instrucciones
 Para añadir a la lista de repositorios de Cocoapods:
