@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "CameraPicker-for-iOS"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "A simple replacement for the default image picker of iPhone devices."
   s.description  = "A simple replacement for the default image picker of iPhone devices.
     ## FEATURES:
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
                     :text => <<-LICENSE
     LICENSE
   }
-  s.source       = { :git => "https://github.com/orlandoaleman/CameraPicker-for-iOS.git", :tag => "0.0.1" }
+  s.source       = { :git => "https://github.com/orlandoaleman/CameraPicker-for-iOS.git", :tag => "0.0.2" }
   s.source_files = 'lib/**/*.{h,m}', 'CameraPicker/Classes/*.{h,m}'
   s.resources    = "CameraPicker/Resources"
   s.frameworks   = 'Foundation,UIKit'  
