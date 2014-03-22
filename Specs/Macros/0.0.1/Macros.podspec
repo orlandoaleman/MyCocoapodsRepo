@@ -10,5 +10,9 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://gist.github.com/5406358.git", :tag => "0.0.1" }
   s.source_files = '*.{h,m}'
   s.resources    = ""
-  s.frameworks   = 'Foundation'  
+  s.frameworks   = 'Foundation' 
+  s.license      = {:type => 'MIT', 
+                    :text => <<-LICENSE
+    LICENSE
+  }   
 end
